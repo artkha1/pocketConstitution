@@ -1,4 +1,4 @@
-# Constitution Education App
+# Pocket Constitution App
 
 <p align="center"> <img src="assets/icon.png" width="250"/> </p>
 
@@ -21,7 +21,7 @@
 
 ## Overview
 
-The **Constitution Education App** is an educational Android application created to make learning about the U.S. Constitution and civic engagement more accessible and engaging for younger audiences.
+The **Pocket Constitution App** is an educational Android application created to make learning about the U.S. Constitution and civic engagement more accessible and engaging for younger audiences.
 
 This project was inspired by conversations throughout high school where I noticed many students felt disconnected from politics and civic participation. To help address this issue, I wanted to present traditionally “dry” political topics through a medium that students interact with every day: a mobile app.
 
@@ -75,7 +75,7 @@ This was also my **first experience with app development**.
 <p align="center">
   <img src="screenshots/Quiz.png" width="220"/>
   <br>
-  <em>Interaction quiz questions</em>
+  <em>Interactive quiz questions</em>
 </p>
 
 <p align="center">
